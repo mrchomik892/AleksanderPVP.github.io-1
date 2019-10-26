@@ -1,7 +1,7 @@
 <?php
 if($_POST['Aleksander'] == Aleksander)
 {
-include('Home\index.html');
+include('dx.html');
 } else {
 echo "Goto";
 }
